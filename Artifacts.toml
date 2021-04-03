@@ -1,0 +1,9 @@
+[[Gnuplot]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "68500d4ff65602b829d3371e0f8f0a8022b8f7ef"
+os = "windows"
+
+    [[Gnuplot.download]]
+    sha256 = "7955a8ab15a05c995657004e7bbf21f6e1a8e6e9839823132fdd99ca794f69bc"
+    url = "https://github.com/barche/Gnuplot_jll.jl/releases/download/Gnuplot-v5.4.1+0/Gnuplot.v5.4.1.x86_64-w64-mingw32-cxx11.tar.gz"
